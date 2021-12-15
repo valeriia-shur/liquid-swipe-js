@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "liquid-swipe-js",
+    "slug": "liquid-swipe-js",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "liquid-swipe-js"
+}
